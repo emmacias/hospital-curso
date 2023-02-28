@@ -1,0 +1,22 @@
+D:\Hospitales\Comun\bin\Debug\Comun.dll
+D:\Hospitales\Comun\bin\Debug\Comun.pdb
+D:\Hospitales\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+D:\Hospitales\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+D:\Hospitales\Comun\obj\Debug\Comun.dll
+D:\Hospitales\Comun\obj\Debug\Comun.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Comun\bin\Debug\Comun.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Comun\bin\Debug\Comun.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Comun\obj\Debug\Comun.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Comun\obj\Debug\Comun.pdb
+D:\Hospitales-Backend\Comun\bin\Debug\Comun.dll
+D:\Hospitales-Backend\Comun\bin\Debug\Comun.pdb
+D:\Hospitales-Backend\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+D:\Hospitales-Backend\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+D:\Hospitales-Backend\Comun\obj\Debug\Comun.dll
+D:\Hospitales-Backend\Comun\obj\Debug\Comun.pdb
+E:\CURSO\Hospitales-Backend\Comun\bin\Debug\Comun.dll
+E:\CURSO\Hospitales-Backend\Comun\bin\Debug\Comun.pdb
+E:\CURSO\Hospitales-Backend\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+E:\CURSO\Hospitales-Backend\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+E:\CURSO\Hospitales-Backend\Comun\obj\Debug\Comun.dll
+E:\CURSO\Hospitales-Backend\Comun\obj\Debug\Comun.pdb

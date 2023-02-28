@@ -1,0 +1,67 @@
+D:\Hospitales\Datos\bin\Debug\Datos.dll.config
+D:\Hospitales\Datos\bin\Debug\Datos.dll
+D:\Hospitales\Datos\bin\Debug\Datos.pdb
+D:\Hospitales\Datos\bin\Debug\Comun.dll
+D:\Hospitales\Datos\bin\Debug\EntityFramework.dll
+D:\Hospitales\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hospitales\Datos\bin\Debug\Modelo.dll
+D:\Hospitales\Datos\bin\Debug\Comun.pdb
+D:\Hospitales\Datos\bin\Debug\Modelo.pdb
+D:\Hospitales\Datos\bin\Debug\Modelo.dll.config
+D:\Hospitales\Datos\bin\Debug\EntityFramework.xml
+D:\Hospitales\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hospitales\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Hospitales\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Hospitales\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Hospitales\Datos\obj\Debug\Datos.dll
+D:\Hospitales\Datos\obj\Debug\Datos.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\Datos.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\Datos.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\Datos.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\Comun.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\EntityFramework.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\Modelo.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\Comun.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\Modelo.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\Modelo.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\EntityFramework.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\obj\Debug\Datos.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Datos\obj\Debug\Datos.pdb
+D:\Hospitales-Backend\Datos\bin\Debug\Datos.dll.config
+D:\Hospitales-Backend\Datos\bin\Debug\Datos.dll
+D:\Hospitales-Backend\Datos\bin\Debug\Datos.pdb
+D:\Hospitales-Backend\Datos\bin\Debug\Comun.dll
+D:\Hospitales-Backend\Datos\bin\Debug\EntityFramework.dll
+D:\Hospitales-Backend\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hospitales-Backend\Datos\bin\Debug\Modelo.dll
+D:\Hospitales-Backend\Datos\bin\Debug\Comun.pdb
+D:\Hospitales-Backend\Datos\bin\Debug\Modelo.pdb
+D:\Hospitales-Backend\Datos\bin\Debug\Modelo.dll.config
+D:\Hospitales-Backend\Datos\bin\Debug\EntityFramework.xml
+D:\Hospitales-Backend\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hospitales-Backend\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Hospitales-Backend\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Hospitales-Backend\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Hospitales-Backend\Datos\obj\Debug\Datos.dll
+D:\Hospitales-Backend\Datos\obj\Debug\Datos.pdb
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\Datos.dll.config
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\Datos.dll
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\Datos.pdb
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\Comun.dll
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\EntityFramework.dll
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\Modelo.dll
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\Comun.pdb
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\Modelo.pdb
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\Modelo.dll.config
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\EntityFramework.xml
+E:\CURSO\Hospitales-Backend\Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\CURSO\Hospitales-Backend\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+E:\CURSO\Hospitales-Backend\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\CURSO\Hospitales-Backend\Datos\obj\Debug\Datos.csproj.CopyComplete
+E:\CURSO\Hospitales-Backend\Datos\obj\Debug\Datos.dll
+E:\CURSO\Hospitales-Backend\Datos\obj\Debug\Datos.pdb

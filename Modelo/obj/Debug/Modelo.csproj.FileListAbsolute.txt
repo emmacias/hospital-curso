@@ -1,0 +1,55 @@
+D:\Hospitales\Modelo\bin\Debug\Modelo.dll.config
+D:\Hospitales\Modelo\bin\Debug\Modelo.dll
+D:\Hospitales\Modelo\bin\Debug\Modelo.pdb
+D:\Hospitales\Modelo\bin\Debug\Comun.dll
+D:\Hospitales\Modelo\bin\Debug\EntityFramework.dll
+D:\Hospitales\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hospitales\Modelo\bin\Debug\Comun.pdb
+D:\Hospitales\Modelo\bin\Debug\EntityFramework.xml
+D:\Hospitales\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hospitales\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+D:\Hospitales\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Hospitales\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+D:\Hospitales\Modelo\obj\Debug\Modelo.dll
+D:\Hospitales\Modelo\obj\Debug\Modelo.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\Modelo.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\Modelo.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\Modelo.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\Comun.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\Comun.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\obj\Debug\Modelo.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Modelo\obj\Debug\Modelo.pdb
+D:\Hospitales-Backend\Modelo\bin\Debug\Modelo.dll.config
+D:\Hospitales-Backend\Modelo\bin\Debug\Modelo.dll
+D:\Hospitales-Backend\Modelo\bin\Debug\Modelo.pdb
+D:\Hospitales-Backend\Modelo\bin\Debug\Comun.dll
+D:\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.dll
+D:\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hospitales-Backend\Modelo\bin\Debug\Comun.pdb
+D:\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.xml
+D:\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hospitales-Backend\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+D:\Hospitales-Backend\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Hospitales-Backend\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+D:\Hospitales-Backend\Modelo\obj\Debug\Modelo.dll
+D:\Hospitales-Backend\Modelo\obj\Debug\Modelo.pdb
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\Modelo.dll.config
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\Modelo.dll
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\Modelo.pdb
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\Comun.dll
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.dll
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\Comun.pdb
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.xml
+E:\CURSO\Hospitales-Backend\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+E:\CURSO\Hospitales-Backend\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+E:\CURSO\Hospitales-Backend\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\CURSO\Hospitales-Backend\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+E:\CURSO\Hospitales-Backend\Modelo\obj\Debug\Modelo.dll
+E:\CURSO\Hospitales-Backend\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,423 @@
+D:\Hospitales\WebAPI\bin\WebAPI.dll.config
+D:\Hospitales\WebAPI\bin\WebAPI.xml
+D:\Hospitales\WebAPI\bin\WebAPI.dll
+D:\Hospitales\WebAPI\bin\WebAPI.pdb
+D:\Hospitales\WebAPI\bin\roslyn\csc.exe
+D:\Hospitales\WebAPI\bin\roslyn\csc.exe.config
+D:\Hospitales\WebAPI\bin\roslyn\csc.rsp
+D:\Hospitales\WebAPI\bin\roslyn\csi.exe
+D:\Hospitales\WebAPI\bin\roslyn\csi.exe.config
+D:\Hospitales\WebAPI\bin\roslyn\csi.rsp
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hospitales\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.AppContext.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Console.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Net.Http.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Net.Sockets.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Hospitales\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hospitales\WebAPI\bin\roslyn\vbc.exe
+D:\Hospitales\WebAPI\bin\roslyn\vbc.exe.config
+D:\Hospitales\WebAPI\bin\roslyn\vbc.rsp
+D:\Hospitales\WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Hospitales\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Hospitales\WebAPI\bin\Comun.dll
+D:\Hospitales\WebAPI\bin\EntityFramework.dll
+D:\Hospitales\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Hospitales\WebAPI\bin\Logica.dll
+D:\Hospitales\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hospitales\WebAPI\bin\Modelo.dll
+D:\Hospitales\WebAPI\bin\Newtonsoft.Json.dll
+D:\Hospitales\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Hospitales\WebAPI\bin\System.Web.Cors.dll
+D:\Hospitales\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Hospitales\WebAPI\bin\System.Web.Http.dll
+D:\Hospitales\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Hospitales\WebAPI\bin\Datos.dll
+D:\Hospitales\WebAPI\bin\Comun.pdb
+D:\Hospitales\WebAPI\bin\Logica.pdb
+D:\Hospitales\WebAPI\bin\Modelo.pdb
+D:\Hospitales\WebAPI\bin\Modelo.dll.config
+D:\Hospitales\WebAPI\bin\EntityFramework.xml
+D:\Hospitales\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Hospitales\WebAPI\bin\Newtonsoft.Json.xml
+D:\Hospitales\WebAPI\bin\System.Web.Http.Cors.xml
+D:\Hospitales\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Hospitales\WebAPI\bin\System.Web.Http.xml
+D:\Hospitales\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Hospitales\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hospitales\WebAPI\bin\Datos.pdb
+D:\Hospitales\WebAPI\bin\Datos.dll.config
+D:\Hospitales\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Hospitales\WebAPI\bin\es\System.Web.Http.resources.dll
+D:\Hospitales\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Hospitales\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+D:\Hospitales\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\Hospitales\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\Hospitales\WebAPI\obj\Debug\WebAPI.dll
+D:\Hospitales\WebAPI\obj\Debug\WebAPI.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\WebAPI.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\WebAPI.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\WebAPI.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\WebAPI.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\csc.exe
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\csc.exe.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\csc.rsp
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\csi.exe
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\csi.exe.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\csi.rsp
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.AppContext.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Console.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Net.Http.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Net.Sockets.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\vbc.exe
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\vbc.exe.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\vbc.rsp
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Comun.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\EntityFramework.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Logica.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Modelo.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Newtonsoft.Json.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Web.Cors.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Web.Http.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Datos.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Rest.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\RestSharp.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Threading.Tasks.Extensions.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Text.Json.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Memory.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.ValueTuple.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Text.Encodings.Web.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Numerics.Vectors.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Buffers.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Comun.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Logica.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Logica.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Modelo.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Modelo.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\EntityFramework.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Newtonsoft.Json.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Web.Http.Cors.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Web.Http.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Datos.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Datos.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Rest.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Rest.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\RestSharp.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Threading.Tasks.Extensions.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Text.Json.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Memory.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.ValueTuple.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Text.Encodings.Web.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Numerics.Vectors.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\System.Buffers.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\es\System.Web.Http.resources.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.pdb
+D:\Hospitales-Backend\WebAPI\bin\WebAPI.dll.config
+D:\Hospitales-Backend\WebAPI\bin\WebAPI.xml
+D:\Hospitales-Backend\WebAPI\bin\WebAPI.dll
+D:\Hospitales-Backend\WebAPI\bin\WebAPI.pdb
+D:\Hospitales-Backend\WebAPI\bin\roslyn\csc.exe
+D:\Hospitales-Backend\WebAPI\bin\roslyn\csc.exe.config
+D:\Hospitales-Backend\WebAPI\bin\roslyn\csc.rsp
+D:\Hospitales-Backend\WebAPI\bin\roslyn\csi.exe
+D:\Hospitales-Backend\WebAPI\bin\roslyn\csi.exe.config
+D:\Hospitales-Backend\WebAPI\bin\roslyn\csi.rsp
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.AppContext.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Console.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Net.Http.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Net.Sockets.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hospitales-Backend\WebAPI\bin\roslyn\vbc.exe
+D:\Hospitales-Backend\WebAPI\bin\roslyn\vbc.exe.config
+D:\Hospitales-Backend\WebAPI\bin\roslyn\vbc.rsp
+D:\Hospitales-Backend\WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Hospitales-Backend\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Hospitales-Backend\WebAPI\bin\Comun.dll
+D:\Hospitales-Backend\WebAPI\bin\EntityFramework.dll
+D:\Hospitales-Backend\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Hospitales-Backend\WebAPI\bin\Logica.dll
+D:\Hospitales-Backend\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hospitales-Backend\WebAPI\bin\Modelo.dll
+D:\Hospitales-Backend\WebAPI\bin\Newtonsoft.Json.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Web.Cors.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Web.Http.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Hospitales-Backend\WebAPI\bin\Datos.dll
+D:\Hospitales-Backend\WebAPI\bin\Rest.dll
+D:\Hospitales-Backend\WebAPI\bin\RestSharp.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Threading.Tasks.Extensions.dll
+D:\Hospitales-Backend\WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Text.Json.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Memory.dll
+D:\Hospitales-Backend\WebAPI\bin\System.ValueTuple.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Text.Encodings.Web.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Numerics.Vectors.dll
+D:\Hospitales-Backend\WebAPI\bin\System.Buffers.dll
+D:\Hospitales-Backend\WebAPI\bin\Comun.pdb
+D:\Hospitales-Backend\WebAPI\bin\Logica.pdb
+D:\Hospitales-Backend\WebAPI\bin\Logica.dll.config
+D:\Hospitales-Backend\WebAPI\bin\Modelo.pdb
+D:\Hospitales-Backend\WebAPI\bin\Modelo.dll.config
+D:\Hospitales-Backend\WebAPI\bin\EntityFramework.xml
+D:\Hospitales-Backend\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Hospitales-Backend\WebAPI\bin\Newtonsoft.Json.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Web.Http.Cors.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Web.Http.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Hospitales-Backend\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hospitales-Backend\WebAPI\bin\Datos.pdb
+D:\Hospitales-Backend\WebAPI\bin\Datos.dll.config
+D:\Hospitales-Backend\WebAPI\bin\Rest.pdb
+D:\Hospitales-Backend\WebAPI\bin\Rest.dll.config
+D:\Hospitales-Backend\WebAPI\bin\RestSharp.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Threading.Tasks.Extensions.xml
+D:\Hospitales-Backend\WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Text.Json.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Memory.xml
+D:\Hospitales-Backend\WebAPI\bin\System.ValueTuple.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Text.Encodings.Web.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Numerics.Vectors.xml
+D:\Hospitales-Backend\WebAPI\bin\System.Buffers.xml
+D:\Hospitales-Backend\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Hospitales-Backend\WebAPI\bin\es\System.Web.Http.resources.dll
+D:\Hospitales-Backend\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+D:\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.dll
+D:\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.pdb
+E:\CURSO\Hospitales-Backend\WebAPI\bin\WebAPI.dll.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\WebAPI.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\WebAPI.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\WebAPI.pdb
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\csc.exe
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\csc.exe.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\csc.rsp
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\csi.exe
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\csi.exe.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\csi.rsp
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.AppContext.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Console.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Net.Http.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Net.Sockets.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\vbc.exe
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\vbc.exe.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\vbc.rsp
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\CURSO\Hospitales-Backend\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Comun.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\EntityFramework.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Logica.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Modelo.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Newtonsoft.Json.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Web.Cors.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Web.Http.Cors.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Web.Http.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Datos.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Rest.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\RestSharp.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Threading.Tasks.Extensions.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Text.Json.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Memory.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.ValueTuple.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Text.Encodings.Web.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Numerics.Vectors.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Buffers.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Comun.pdb
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Logica.pdb
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Logica.dll.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Modelo.pdb
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Modelo.dll.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\EntityFramework.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Newtonsoft.Json.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Web.Http.Cors.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Web.Http.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Datos.pdb
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Datos.dll.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Rest.pdb
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Rest.dll.config
+E:\CURSO\Hospitales-Backend\WebAPI\bin\RestSharp.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Threading.Tasks.Extensions.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Text.Json.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Memory.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.ValueTuple.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Text.Encodings.Web.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Numerics.Vectors.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\System.Buffers.xml
+E:\CURSO\Hospitales-Backend\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\es\System.Web.Http.resources.dll
+E:\CURSO\Hospitales-Backend\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+E:\CURSO\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+E:\CURSO\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+E:\CURSO\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+E:\CURSO\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.dll
+E:\CURSO\Hospitales-Backend\WebAPI\obj\Debug\WebAPI.pdb

@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:WebAPI.Controllers.MedicoController">
+            <summary>
+            Controlador WebAPI
+            </summary>
+        </member>
+        <member name="M:WebAPI.Controllers.MedicoController.Gets(System.Int32,System.Int32,System.String)">
+            <summary>
+            Servicio para obtener todos los items
+            </summary>
+            <param name="cantidad">Cantidad de elementos a obtener</param>
+            <param name="pagina">Número de página de resultados</param>
+            <param name="textoBusqueda">Texto para filtrar la búsqueda</param>
+            <remarks>Servicio para obtener todos los items</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.MedicoController.Get(System.Int64)">
+            <summary>
+            Servicio para obtener un item por su identificador
+            </summary>
+            <param name="id">Identificador del item que se desea obtener</param>
+            <remarks>Servicio para obtener un item por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.MedicoController.Post(Modelo.Modelos.Medico)">
+            <summary>
+            Servicio para crear un nuevo item y retornar su identificador
+            </summary>
+            <param name="item">Datos del nuevo item</param>
+            <remarks>Servicio para crear un nuevo item</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.MedicoController.Put(System.Int64,Comun.ViewModels.MedicoVMR)">
+            <summary>
+            Servicio para editar un item por su identificador
+            </summary>
+            <param name="id">Identificador del item que se desea editar</param>
+            <param name="item">Nuevos datos del item</param>
+            <remarks>Servicio para editar un item por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.MedicoController.Delete(System.Collections.Generic.List{System.Int64})">
+            <summary>
+            Servicio para borrar varios items por su identificador
+            </summary>
+            <param name="ids">Ids de los items que se desean borrar</param>
+            <remarks>Servicio para borrar varios items por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.MedicoController.Dispose(System.Boolean)">
+            <summary>
+            Liberar los recursos de la aplicación
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="T:WebAPI.Controllers.IngresoController">
+            <summary>
+            Controlador WebAPI
+            </summary>
+        </member>
+        <member name="M:WebAPI.Controllers.IngresoController.Gets(System.Int32,System.Int32,System.String)">
+            <summary>
+            Servicio para obtener todos los items
+            </summary>
+            <param name="cantidad">Cantidad de elementos a obtener</param>
+            <param name="pagina">Número de página de resultados</param>
+            <param name="textoBusqueda">Texto para filtrar la búsqueda</param>
+            <remarks>Servicio para obtener todos los items</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.IngresoController.Get(System.Int64)">
+            <summary>
+            Servicio para obtener un item por su identificador
+            </summary>
+            <param name="id">Identificador del item que se desea obtener</param>
+            <remarks>Servicio para obtener un item por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.IngresoController.Post(Modelo.Modelos.Ingreso)">
+            <summary>
+            Servicio para crear un nuevo item y retornar su identificador
+            </summary>
+            <param name="item">Datos del nuevo item</param>
+            <remarks>Servicio para crear un nuevo item</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.IngresoController.Put(System.Int64,Comun.ViewModels.IngresoVMR)">
+            <summary>
+            Servicio para editar un item por su identificador
+            </summary>
+            <param name="id">Identificador del item que se desea editar</param>
+            <param name="item">Nuevos datos del item</param>
+            <remarks>Servicio para editar un item por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.IngresoController.Delete(System.Collections.Generic.List{System.Int64})">
+            <summary>
+            Servicio para borrar varios items por su identificador
+            </summary>
+            <param name="ids">Ids de los items que se desean borrar</param>
+            <remarks>Servicio para borrar varios items por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.IngresoController.GetFormData(System.Int64)">
+            <summary>
+            Servicio para obtener los datos necesarios para el formulario
+            </summary>
+            <param name="id">Identificador del item (NULL cuando el formulario es de creación)</param>
+            <remarks>Servicio para obtener los datos necesarios para el formulario</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.IngresoController.Dispose(System.Boolean)">
+            <summary>
+            Liberar los recursos de la aplicación
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="T:WebAPI.Controllers.EgresoController">
+            <summary>
+            Controlador WebAPI
+            </summary>
+        </member>
+        <member name="M:WebAPI.Controllers.EgresoController.Gets(System.Int32,System.Int32,System.String)">
+            <summary>
+            Servicio para obtener todos los items
+            </summary>
+            <param name="cantidad">Cantidad de elementos a obtener</param>
+            <param name="pagina">Número de página de resultados</param>
+            <param name="textoBusqueda">Texto para filtrar la búsqueda</param>
+            <remarks>Servicio para obtener todos los items</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.EgresoController.Get(System.Int64)">
+            <summary>
+            Servicio para obtener un item por su identificador
+            </summary>
+            <param name="id">Identificador del item que se desea obtener</param>
+            <remarks>Servicio para obtener un item por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.EgresoController.Post(Modelo.Modelos.Egreso)">
+            <summary>
+            Servicio para crear un nuevo item y retornar su identificador
+            </summary>
+            <param name="item">Datos del nuevo item</param>
+            <remarks>Servicio para crear un nuevo item</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.EgresoController.Put(System.Int64,Comun.ViewModels.EgresoVMR)">
+            <summary>
+            Servicio para editar un item por su identificador
+            </summary>
+            <param name="id">Identificador del item que se desea editar</param>
+            <param name="item">Nuevos datos del item</param>
+            <remarks>Servicio para editar un item por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.EgresoController.Delete(System.Collections.Generic.List{System.Int64})">
+            <summary>
+            Servicio para borrar varios items por su identificador
+            </summary>
+            <param name="ids">Ids de los items que se desean borrar</param>
+            <remarks>Servicio para borrar varios items por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.EgresoController.GetFormData(System.Int64)">
+            <summary>
+            Servicio para obtener los datos necesarios para el formulario
+            </summary>
+            <param name="id">Identificador del item (NULL cuando el formulario es de creación)</param>
+            <remarks>Servicio para obtener los datos necesarios para el formulario</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.EgresoController.Dispose(System.Boolean)">
+            <summary>
+            Liberar los recursos de la aplicación
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="T:WebAPI.Controllers.PacienteController">
+            <summary>
+            Controlador WebAPI
+            </summary>
+        </member>
+        <member name="M:WebAPI.Controllers.PacienteController.Gets(System.Int32,System.Int32,System.String)">
+            <summary>
+            Servicio para obtener todos los items
+            </summary>
+            <param name="cantidad">Cantidad de elementos a obtener</param>
+            <param name="pagina">Número de página de resultados</param>
+            <param name="textoBusqueda">Texto para filtrar la búsqueda</param>
+            <remarks>Servicio para obtener todos los items</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.PacienteController.Get(System.Int64)">
+            <summary>
+            Servicio para obtener un item por su identificador
+            </summary>
+            <param name="id">Identificador del item que se desea obtener</param>
+            <remarks>Servicio para obtener un item por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.PacienteController.Post(Modelo.Modelos.Paciente)">
+            <summary>
+            Servicio para crear un nuevo item y retornar su identificador
+            </summary>
+            <param name="item">Datos del nuevo item</param>
+            <remarks>Servicio para crear un nuevo item</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.PacienteController.Put(System.Int64,Comun.ViewModels.PacienteVMR)">
+            <summary>
+            Servicio para editar un item por su identificador
+            </summary>
+            <param name="id">Identificador del item que se desea editar</param>
+            <param name="item">Nuevos datos del item</param>
+            <remarks>Servicio para editar un item por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.PacienteController.Delete(System.Collections.Generic.List{System.Int64})">
+            <summary>
+            Servicio para borrar varios items por su identificador
+            </summary>
+            <param name="ids">Ids de los items que se desean borrar</param>
+            <remarks>Servicio para borrar varios items por su identificador</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+        <member name="M:WebAPI.Controllers.PacienteController.Dispose(System.Boolean)">
+            <summary>
+            Liberar los recursos de la aplicación
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="M:WebAPI.Controllers.PacienteController.GetPacientesIngresados(System.Int32,System.Int32,System.String)">
+            <summary>
+            Servicio para obtener los pacientes ingresados
+            </summary>
+            <param name="cantidad">Cantidad de elementos a obtener</param>
+            <param name="pagina">Número de página de resultados</param>
+            <param name="textoBusqueda">Texto para filtrar la búsqueda</param>
+            <remarks>Servicio para obtener los pacientes ingresados</remarks>
+            <response code="200">Ejecución exitosa</response>
+            <response code="400">Error en los datos enviados</response>
+            <response code="401">Token no válido o caducado</response>
+            <response code="404">Recurso no encontrado</response>
+            <response code="500">Error interno del servidor</response>
+        </member>
+    </members>
+</doc>

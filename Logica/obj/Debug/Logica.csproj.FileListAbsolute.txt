@@ -1,0 +1,147 @@
+D:\Hospitales\Logica\bin\Debug\Logica.dll
+D:\Hospitales\Logica\bin\Debug\Logica.pdb
+D:\Hospitales\Logica\bin\Debug\Comun.dll
+D:\Hospitales\Logica\bin\Debug\Datos.dll
+D:\Hospitales\Logica\bin\Debug\Modelo.dll
+D:\Hospitales\Logica\bin\Debug\Rest.dll
+D:\Hospitales\Logica\bin\Debug\EntityFramework.dll
+D:\Hospitales\Logica\bin\Debug\Comun.pdb
+D:\Hospitales\Logica\bin\Debug\Datos.pdb
+D:\Hospitales\Logica\bin\Debug\Datos.dll.config
+D:\Hospitales\Logica\bin\Debug\Modelo.pdb
+D:\Hospitales\Logica\bin\Debug\Modelo.dll.config
+D:\Hospitales\Logica\bin\Debug\Rest.pdb
+D:\Hospitales\Logica\bin\Debug\EntityFramework.xml
+D:\Hospitales\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Hospitales\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Hospitales\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Hospitales\Logica\obj\Debug\Logica.dll
+D:\Hospitales\Logica\obj\Debug\Logica.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Logica.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Logica.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Logica.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Comun.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Datos.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Modelo.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Rest.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\EntityFramework.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\RestSharp.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Text.Json.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Memory.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.ValueTuple.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Text.Encodings.Web.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Numerics.Vectors.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Buffers.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Comun.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Datos.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Datos.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Modelo.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Modelo.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Rest.pdb
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Rest.dll.config
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\EntityFramework.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\RestSharp.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Newtonsoft.Json.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Text.Json.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Memory.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.ValueTuple.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Text.Encodings.Web.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Numerics.Vectors.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\bin\Debug\System.Buffers.xml
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\obj\Debug\Logica.dll
+D:\Trabajo\Curso capacitacion\Hospitales-Backend\Logica\obj\Debug\Logica.pdb
+D:\Hospitales-Backend\Logica\bin\Debug\Logica.dll.config
+D:\Hospitales-Backend\Logica\bin\Debug\Logica.dll
+D:\Hospitales-Backend\Logica\bin\Debug\Logica.pdb
+D:\Hospitales-Backend\Logica\bin\Debug\Comun.dll
+D:\Hospitales-Backend\Logica\bin\Debug\Datos.dll
+D:\Hospitales-Backend\Logica\bin\Debug\Modelo.dll
+D:\Hospitales-Backend\Logica\bin\Debug\Rest.dll
+D:\Hospitales-Backend\Logica\bin\Debug\EntityFramework.dll
+D:\Hospitales-Backend\Logica\bin\Debug\RestSharp.dll
+D:\Hospitales-Backend\Logica\bin\Debug\Newtonsoft.Json.dll
+D:\Hospitales-Backend\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hospitales-Backend\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hospitales-Backend\Logica\bin\Debug\System.Text.Json.dll
+D:\Hospitales-Backend\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hospitales-Backend\Logica\bin\Debug\System.Memory.dll
+D:\Hospitales-Backend\Logica\bin\Debug\System.ValueTuple.dll
+D:\Hospitales-Backend\Logica\bin\Debug\System.Text.Encodings.Web.dll
+D:\Hospitales-Backend\Logica\bin\Debug\System.Numerics.Vectors.dll
+D:\Hospitales-Backend\Logica\bin\Debug\System.Buffers.dll
+D:\Hospitales-Backend\Logica\bin\Debug\Comun.pdb
+D:\Hospitales-Backend\Logica\bin\Debug\Datos.pdb
+D:\Hospitales-Backend\Logica\bin\Debug\Datos.dll.config
+D:\Hospitales-Backend\Logica\bin\Debug\Modelo.pdb
+D:\Hospitales-Backend\Logica\bin\Debug\Modelo.dll.config
+D:\Hospitales-Backend\Logica\bin\Debug\Rest.pdb
+D:\Hospitales-Backend\Logica\bin\Debug\Rest.dll.config
+D:\Hospitales-Backend\Logica\bin\Debug\EntityFramework.xml
+D:\Hospitales-Backend\Logica\bin\Debug\RestSharp.xml
+D:\Hospitales-Backend\Logica\bin\Debug\Newtonsoft.Json.xml
+D:\Hospitales-Backend\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hospitales-Backend\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hospitales-Backend\Logica\bin\Debug\System.Text.Json.xml
+D:\Hospitales-Backend\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hospitales-Backend\Logica\bin\Debug\System.Memory.xml
+D:\Hospitales-Backend\Logica\bin\Debug\System.ValueTuple.xml
+D:\Hospitales-Backend\Logica\bin\Debug\System.Text.Encodings.Web.xml
+D:\Hospitales-Backend\Logica\bin\Debug\System.Numerics.Vectors.xml
+D:\Hospitales-Backend\Logica\bin\Debug\System.Buffers.xml
+D:\Hospitales-Backend\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Hospitales-Backend\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Hospitales-Backend\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Hospitales-Backend\Logica\obj\Debug\Logica.dll
+D:\Hospitales-Backend\Logica\obj\Debug\Logica.pdb
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Logica.dll.config
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Logica.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Logica.pdb
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Comun.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Datos.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Modelo.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Rest.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\EntityFramework.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\RestSharp.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Newtonsoft.Json.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Text.Json.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Memory.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.ValueTuple.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Text.Encodings.Web.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Numerics.Vectors.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Buffers.dll
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Comun.pdb
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Datos.pdb
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Datos.dll.config
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Modelo.pdb
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Modelo.dll.config
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Rest.pdb
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Rest.dll.config
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\EntityFramework.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\RestSharp.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Newtonsoft.Json.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Text.Json.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Memory.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.ValueTuple.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Text.Encodings.Web.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Numerics.Vectors.xml
+E:\CURSO\Hospitales-Backend\Logica\bin\Debug\System.Buffers.xml
+E:\CURSO\Hospitales-Backend\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+E:\CURSO\Hospitales-Backend\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+E:\CURSO\Hospitales-Backend\Logica\obj\Debug\Logica.csproj.CopyComplete
+E:\CURSO\Hospitales-Backend\Logica\obj\Debug\Logica.dll
+E:\CURSO\Hospitales-Backend\Logica\obj\Debug\Logica.pdb
